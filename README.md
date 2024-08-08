@@ -35,7 +35,6 @@ The U-Net model is a convolutional neural network designed for biomedical image 
 
 ### VGG-16 Architecture
 
-VGG-16 is a convolutional neural network model known for its depth and simplicity. In this project, VGG-16 is adapted for segmentation tasks to compare its performance with the U-Net model.
 
 ![VGG-16 Architecture](vgg16.png)
 
