@@ -14,7 +14,6 @@ This project is a part of the Digital Image Processing Graduate Course at the El
   - [U-Net Architecture](#u-net-architecture)
   - [VGG-16 Architecture](#vgg-16-architecture)
   - [Classical Methods](#classical-methods)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [Files](#files)
 - [References](#references)
@@ -44,9 +43,6 @@ The U-Net model is a convolutional neural network designed for biomedical image 
 
 Classical image processing techniques, including thresholding, edge detection, and morphological operations, are implemented to provide a baseline for comparison with deep learning approaches.
 
-## Results
-
-The performance of the segmentation models is evaluated using metrics such as Dice coefficient, Intersection over Union (IoU), and pixel accuracy. The results are compared to highlight the strengths and weaknesses of each method.
 
 ## Conclusion
 
