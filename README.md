@@ -1,5 +1,7 @@
 # Fetal Head Segmentation in Ultrasound Images via Deep Learning and Classical Methods
 
+![unet result](unet_result.png)
+
 ## Overview
 
 This project is a part of the Digital Image Processing Graduate Course at the Electrical Engineering Department of Sharif University of Technology. The primary objective is to segment the fetal head in ultrasound images using deep learning models, specifically U-Net and VGG-16, and compare these methods with classical segmentation techniques.
